@@ -1,0 +1,223 @@
+[
+    {
+        "title": "Red & Black Checked Shirt",
+        "description": "Stylish and comfortable shirt for any occasion.",
+        "price": 699,
+        "originalPrice": 999,
+        "image": "images/products/shirts/redAndBlackChecks.png",
+        "category": "Shirts",
+        "rating": "⭐⭐⭐⭐",
+        "brand": "Gucci",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish Pure White Shirt",
+        "description": "Stylish and comfortable shirt for any occasion.",
+        "price": 799,
+        "originalPrice": 999,
+        "image": "images/products/shirts/WhitePlane.png",
+        "category": "Shirts",
+        "rating": 4.5,
+        "brand": "ZARA",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "White & Black Checked Shirt",
+        "description": "Stylish and comfortable shirt for any occasion.",
+        "price": 699,
+        "originalPrice": 999,
+        "image": "images/products/shirts/whiteChecked2.png",
+        "category": "Shirts",
+        "rating": 4.5,
+        "brand": "Raymond",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish Copper-Blended Suit",
+        "description": "Stylish and comfortable blazer for any occasion.",
+        "price": 1999,
+        "image": "images/products/Blazzer/blazzer.png",
+        "originalPrice": 2499,
+        "category": "Blazers",
+        "rating": 4.5,
+        "brand": "Tommy Hilfinger",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish Beige Seloid Suit",
+        "description": "Stylish and comfortable blazer for any occasion.",
+        "price": 1999,
+        "image": "images/products/Blazzer/beige-blazzer.png",
+        "originalPrice": 2499,
+        "category": "Blazers",
+        "rating": 4.5,
+        "brand": "Tommy Hilfinger",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish Dark Green Suit",
+        "description": "Stylish and comfortable blazer for any occasion.",
+        "price": 2499,
+        "image": "images/products/Blazzer/green-blazzer.png",
+        "originalPrice": 2999,
+        "category": "Blazers",
+        "rating": 4.5,
+        "brand": "Tommy Hilfinger",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish Royal Blue Suit",
+        "description": "Stylish and comfortable blazer for any occasion.",
+        "price": 1999,
+        "image": "images/products/Blazzer/blue-blazzer.png",
+        "originalPrice": 2499,
+        "category": "Blazers",
+        "rating": 4.5,
+        "brand": "Tommy Hilfinger",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish White T-Shirt for Men",
+        "description": "Perfect for any casual occasion.",
+        "price": 299,
+        "image": "images/products/T-shirts/whiteTshirst.png",
+        "originalPrice": 499,
+        "category": "T-Shirts",
+        "rating": 4.5,
+        "brand": "Levi's",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish Off-White T-Shirt for Men",
+        "description": "Perfect for any casual occasion.",
+        "price": 299,
+        "image": "images/products/T-shirts/white-t-shirt.png",
+        "originalPrice": 499,
+        "category": "T-Shirts",
+        "rating": 4.5,
+        "brand": "Levi's",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish Black T-Shirt for Men",
+        "description": "Perfect for any casual occasion.",
+        "price": 299,
+        "image": "images/products/T-shirts/black-t-shirt.png",
+        "originalPrice": 499,
+        "category": "T-Shirts",
+        "rating": 4.5,
+        "brand": "Levi's",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish Blue Denim for Men",
+        "description": "Perfect for any casual occasion.",
+        "price": 1299,
+        "image": "images/products/denim/blue-denim.png",
+        "originalPrice": 1899,
+        "category": "Denim",
+        "rating": 4.5,
+        "brand": "US Polo",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish White Baggy for Men",
+        "image": "images/products/Pants/whiteBaggyFit.png",
+        "description": "Perfect for any casual occasions.",
+        "price": 899,
+        "originalPrice": 1299,
+        "category": "Pants",
+        "rating": 4.5,
+        "brand": "H & M",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish Black Track Pant for Men",
+        "image": "images/products/Pants/black-track-pant.png",
+        "description": "Perfect for any casual occasions.",
+        "price": 899,
+        "originalPrice": 1299,
+        "category": "Pants",
+        "rating": 4.5,
+        "brand": "H & M",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish Leather Watch for Men",
+        "image": "images/products/watches/brown-leather-watch.png",
+        "description": "Perfect for any casual occasions.",
+        "price": 8999,
+        "originalPrice": 14999,
+        "category": "Watches",
+        "rating": 5,
+        "brand": "TISSOT",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish Metal Watch for Men",
+        "image": "images/products/watches/metal-watch.png",
+        "description": "Perfect for any casual occasions.",
+        "price": 9999,
+        "originalPrice": 19999,
+        "category": "Watches",
+        "rating": 5,
+        "brand": "Rolex",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish white sweatshirt for Men",
+        "image": "images/products/sweatshirts/white-sweatshirt.png",
+        "description": "Perfect for any casual occasions.",
+        "price": 1999,
+        "originalPrice": 2499,
+        "category": "Sweatshirts",
+        "rating": 5,
+        "brand": "H & M",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish green sweatshirt for Men",
+        "image": "images/products/sweatshirts/green-sweatshirt.png",
+        "description": "Perfect for any casual occasions.",
+        "price": 1999,
+        "originalPrice": 2499,
+        "category": "Sweatshirts",
+        "rating": 5,
+        "brand": "H & M",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish color blocked sneakers for Men",
+        "image": "images/products/sneakers/color-blocked.png",
+        "description": "Perfect for any casual occasions.",
+        "price": 1999,
+        "originalPrice": 2499,
+        "category": "Sneakers",
+        "rating": 5,
+        "brand": "H & M",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish Nike Air-Jordans for Men",
+        "image": "images/products/sneakers/air-jordans.png",
+        "description": "Perfect for any casual occasions.",
+        "price": 19999,
+        "originalPrice": 24999,
+        "category": "Sneakers",
+        "rating": 5,
+        "brand": "NIKE",
+        "cloth": "Cotton"
+    },
+    {
+        "title": "Stylish brown leather boots for Men",
+        "image": "images/products/sneakers/boots.png",
+        "description": "Perfect for any casual occasions.",
+        "price": 9999,
+        "originalPrice": 14999,
+        "category": "Boots",
+        "rating": 5,
+        "brand": "Redtape",
+        "cloth": "Cotton"
+    }
+
+]
